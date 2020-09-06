@@ -1,6 +1,8 @@
 # LibertyEngine
 [![Build Status](https://travis-ci.org/librewiki/liberty-engine.svg?branch=master)](https://travis-ci.org/librewiki/liberty-engine)
 
+![Node.js Package](https://github.com/Karterring/liberty-engine/workflows/Node.js%20Package/badge.svg)
+
 ## Table of Contents
 - [LibertyEngine](#libertyengine)
   - [Table of Contents](#table-of-contents)
